@@ -1,0 +1,13 @@
+{
+  "name": "html2canvas",
+  "repo": "jakerichan/html2canvas",
+  "description": "render DOM element in Canvas",
+  "version": "0.5.0-alpha2",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "dist/html2canvas.js"
+  ]
+}
