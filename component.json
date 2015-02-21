@@ -2,7 +2,7 @@
   "name": "html2canvas",
   "repo": "jakerichan/html2canvas",
   "description": "render DOM element in Canvas",
-  "version": "0.5.0-alpha2",
+  "version": "0.4.1",
   "keywords": [],
   "dependencies": {},
   "development": {},
